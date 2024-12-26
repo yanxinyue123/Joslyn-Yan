@@ -1,2 +1,2 @@
-# Joslyn-Yan
-This repository contains the relevant code for constructing PCD subtypes and CDRI prognostic models in the article "Machine learning and molecular subtyping reveal the impact of diverse patterns of cell death on the diagnosis and treatment of hepatocellular carcinoma"
+# This repository contains the relevant code for constructing PCD subtypes and CDRI prognostic models in the article "Machine learning and molecular subtyping reveal the impact of diverse patterns of cell death on the diagnosis and treatment of hepatocellular carcinoma"
+This repository serves as a repository for the supporting code and data derived from the research conducted in this study, intended for the broader scientific community to utilize. The code and data stored here are available for academic use free of charge; any other type of use is strictly prohibited.
